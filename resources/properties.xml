@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <!-- print MagicSquareChromosome as matrix = true; as array = false  -->
+    <property name="mscPrintAsMatrix">
+        <value>false</value> 
+    </property>
+</properties>
